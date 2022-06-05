@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Leo Dias
-- 🌱 I’m currently learning Analise em Desenvolvimento de Sistema 
+- 👋 Hi, I’m Leo Dia
+- 🌱 Atualmente estou estudando Analise e Desenvolvimento de Sistemas
 - 
-- 📫 How to reach me ...
+- 
 
 <!---
 ldias2908/ldias2908 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
